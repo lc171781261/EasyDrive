@@ -39,7 +39,7 @@
 }
 
 - (void)BarAction {
-    
+    NSLog(@"tst");
 }
 
 - (void)creatScrollview {
